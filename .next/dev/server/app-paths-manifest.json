@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/hastalar/page": "app/dashboard/hastalar/page.js",
+  "/dashboard/istatistikler/page": "app/dashboard/istatistikler/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/profil/page": "app/dashboard/profil/page.js",
+  "/dashboard/randevular/page": "app/dashboard/randevular/page.js",
+  "/page": "app/page.js",
+  "/randevu/page": "app/randevu/page.js"
+}
